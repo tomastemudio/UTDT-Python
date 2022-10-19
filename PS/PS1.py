@@ -21,9 +21,11 @@
 # print(minimo(l))
 
 
+
 #------------------------------------------------------------------
 # 							LISTAS
 #------------------------------------------------------------------
+
 
 ## Ejercicio 1
 
@@ -48,12 +50,16 @@ def reves_lista(lista):
 
 ## Ejercicio 4
 
+def suma_lista_cuadrado(lista_num):
+
+
 
 #------------------------------------------------------------------
 def main():
 	print('---'*20)
 	# Listas.ejercicio1
 	lista = [1,2,3,4,5,10,'hola',9,3]
+	lista_num = [2,3,4,2,5,6,7,6,9,10]
 	print(f'La lista de los indices pares es: {lista_par(lista)}')
 	print('---'*20)
 	
