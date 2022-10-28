@@ -12,3 +12,9 @@
 4. `np.argmin(variable)` nos da la posicion donde esta el minimo. Lo mismo para el maximo.
 5. Las operaciones con arrays son por default elemento a elemento.
 ## Clases Practicas
+
+### Clase Practica 3 - 28/10
+1. `np.matmul()` sirve para multiplicar matrices.
+2. `X.T` para transponer la matriz.
+3. `np.linalg` paquete para hacer algebra lienal. `np.linalg.inv()` sirve para hacer la inversa de una matriz.
+4. `__init__` lo uso cuando quiero definir atributos.
