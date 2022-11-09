@@ -11,6 +11,9 @@
 3. Indexar matrices. Por ej tengo matriz de 2x3 y quiero el numero de la segunda columna y primer fila --> Hago `n[0,1]` sabiendo que mi matriz se llama n.
 4. `np.argmin(variable)` nos da la posicion donde esta el minimo. Lo mismo para el maximo.
 5. Las operaciones con arrays son por default elemento a elemento.
+
+### Clase 9 - 9/11
+Clase de data scrapping
 ## Clases Practicas
 
 ### Clase Practica 3 - 28/10
