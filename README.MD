@@ -14,6 +14,11 @@
 
 ### Clase 9 - 9/11
 Clase de data scrapping
+
+### Clase 10 - 10/11
+Scraping via **APIs**.
+
+
 ## Clases Practicas
 
 ### Clase Practica 3 - 28/10

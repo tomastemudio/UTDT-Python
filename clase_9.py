@@ -1,3 +1,6 @@
+#==================================================================
+# 							 CLASE 9
+#==================================================================
 import requests
 from bs4 import BeautifulSoup
 from time import sleep  ## Pone a dormir el codigo el tiempo que le digas.
