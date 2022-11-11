@@ -12,11 +12,9 @@
 4. `np.argmin(variable)` nos da la posicion donde esta el minimo. Lo mismo para el maximo.
 5. Las operaciones con arrays son por default elemento a elemento.
 ---
-### Clase 9 - 9/11
-Clase de data scrapping
----
 ### Clase 10 - 10/11
 Scraping via **APIs**.
+---
 
 
 ## Clases Practicas
