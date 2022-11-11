@@ -13,8 +13,7 @@
 5. Las operaciones con arrays son por default elemento a elemento.
 ---
 ### Clase 10 - 10/11
-
-Scraping via **APIs**.
+1. Scraping via **APIs**.
 ---
 
 
