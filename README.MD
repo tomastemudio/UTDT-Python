@@ -26,3 +26,16 @@ Scraping via **APIs**.
 2. `X.T` para transponer la matriz.
 3. `np.linalg` paquete para hacer algebra lineal. `np.linalg.inv()` sirve para hacer la inversa de una matriz.
 4. `__init__` lo uso cuando quiero definir atributos.
+
+### Clase Practica 5 - 11/11
+```python
+dic = {"id":1, "filter": 2}
+print(dic)
+
+dic["c"] = [3, 5] # Me agrega esta lista al dic.
+dic["results"] = [{"price": 1, "mts": 5}, {"price": 4, "mts": 2}] # Tmb puedo agregar otro diccionario. ESTO ES UNA LISTA.
+print(dic)
+
+print(dic["results"][0]) # Me accede al primer diccionario de la lista.
+print(dic["results"][0]["results"]) # Me accede al results del primer diccionario de la lista.
+```
