@@ -37,3 +37,6 @@ print(dic)
 print(dic["results"][0]) # Me accede al primer diccionario de la lista.
 print(dic["results"][0]["results"]) # Me accede al results del primer diccionario de la lista.
 ```
+---
+### Clase Practica 6 - 18/11
+1. El learning rate es cuanto me muevo hacia la derecha o la izquierda.
